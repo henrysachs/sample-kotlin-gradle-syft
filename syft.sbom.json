@@ -1,0 +1,5668 @@
+{
+ "artifacts": [
+  {
+   "id": "b02705d55d519ca",
+   "name": "HdrHistogram",
+   "version": "2.1.12",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:HdrHistogram:HdrHistogram:2.1.12:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "98100fa13da51f78",
+   "name": "LatencyUtils",
+   "version": "2.0.3",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:LatencyUtils:LatencyUtils:2.0.3:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "987433405f36750",
+   "name": "accessors-smart",
+   "version": "2.4.8",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:accessors-smart:accessors-smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:accessors-smart:accessors_smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:accessors_smart:accessors-smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:accessors_smart:accessors_smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:accessors:accessors-smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:accessors:accessors_smart:2.4.8:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "451344a89f1b30bc",
+   "name": "android-json",
+   "version": "0.0.20131108.vaadin1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:android-json:android-json:0.0.20131108.vaadin1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:android-json:android_json:0.0.20131108.vaadin1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:android_json:android-json:0.0.20131108.vaadin1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:android_json:android_json:0.0.20131108.vaadin1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:android:android-json:0.0.20131108.vaadin1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:android:android_json:0.0.20131108.vaadin1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b17634ebbc87816e",
+   "name": "apiguardian-api",
+   "version": "1.1.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:apiguardian-api:apiguardian-api:1.1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apiguardian-api:apiguardian_api:1.1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apiguardian_api:apiguardian-api:1.1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apiguardian_api:apiguardian_api:1.1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apiguardian:apiguardian-api:1.1.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:apiguardian:apiguardian_api:1.1.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ed948208fa344a7c",
+   "name": "asciidoctorj",
+   "version": "1.5.6",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:asciidoctorj:asciidoctorj:1.5.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "7fbeadc07b7163fa",
+   "name": "asciidoctorj-groovy-dsl",
+   "version": "1.0.0.Alpha2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:asciidoctorj-groovy-dsl:asciidoctorj-groovy-dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj-groovy-dsl:asciidoctorj_groovy_dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj_groovy_dsl:asciidoctorj-groovy-dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj_groovy_dsl:asciidoctorj_groovy_dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj-groovy:asciidoctorj-groovy-dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj-groovy:asciidoctorj_groovy_dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj_groovy:asciidoctorj-groovy-dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj_groovy:asciidoctorj_groovy_dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj:asciidoctorj-groovy-dsl:1.0.0.Alpha2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:asciidoctorj:asciidoctorj_groovy_dsl:1.0.0.Alpha2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "63461c173208dbbd",
+   "name": "asm",
+   "version": "9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:asm:asm:9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ff9b07492bbef1cb",
+   "name": "assertj-core",
+   "version": "3.23.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:assertj-core:assertj-core:3.23.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:assertj-core:assertj_core:3.23.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:assertj_core:assertj-core:3.23.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:assertj_core:assertj_core:3.23.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:assertj:assertj-core:3.23.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:assertj:assertj_core:3.23.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b2fa7d1d4f37c1a7",
+   "name": "byte-buddy",
+   "version": "1.12.19",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:byte-buddy:byte-buddy:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte-buddy:byte_buddy:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy:byte-buddy:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy:byte_buddy:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte:byte-buddy:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte:byte_buddy:1.12.19:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "4238ebc735d494ee",
+   "name": "byte-buddy-agent",
+   "version": "1.12.19",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:byte-buddy-agent:byte-buddy-agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte-buddy-agent:byte_buddy_agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy_agent:byte-buddy-agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy_agent:byte_buddy_agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte-buddy:byte-buddy-agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte-buddy:byte_buddy_agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy:byte-buddy-agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte_buddy:byte_buddy_agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte:byte-buddy-agent:1.12.19:*:*:*:*:*:*:*",
+    "cpe:2.3:a:byte:byte_buddy_agent:1.12.19:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "97ddf96bdbe96973",
+   "name": "core",
+   "version": "3.6.6",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:core:core:3.6.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ea9ce5ad6d855e5f",
+   "name": "flyway-core",
+   "version": "9.5.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:flyway-core:flyway-core:9.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:flyway-core:flyway_core:9.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:flyway_core:flyway-core:9.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:flyway_core:flyway_core:9.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:flyway:flyway-core:9.5.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:flyway:flyway_core:9.5.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "c32054c31ac519b4",
+   "name": "gradle-wrapper",
+   "version": "",
+   "type": "java-archive",
+   "foundBy": "java-cataloger",
+   "locations": [
+    {
+     "path": "gradle/wrapper/gradle-wrapper.jar"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:gradle-wrapper:gradle-wrapper:*:*:*:*:*:*:*:*",
+    "cpe:2.3:a:gradle-wrapper:gradle_wrapper:*:*:*:*:*:*:*:*",
+    "cpe:2.3:a:gradle_wrapper:gradle-wrapper:*:*:*:*:*:*:*:*",
+    "cpe:2.3:a:gradle_wrapper:gradle_wrapper:*:*:*:*:*:*:*:*",
+    "cpe:2.3:a:gradle:gradle-wrapper:*:*:*:*:*:*:*:*",
+    "cpe:2.3:a:gradle:gradle_wrapper:*:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:maven/gradle-wrapper/gradle-wrapper",
+   "metadataType": "JavaMetadata",
+   "metadata": {
+    "virtualPath": "gradle/wrapper/gradle-wrapper.jar",
+    "manifest": {
+     "main": {
+      "Implementation-Title": "Gradle Wrapper",
+      "Manifest-Version": "1.0"
+     }
+    },
+    "digest": [
+     {
+      "algorithm": "sha1",
+      "value": "251364b90b8f139c16eb5d5ce376dfa697cba6cd"
+     }
+    ]
+   }
+  },
+  {
+   "id": "31fb879935017aba",
+   "name": "groovy-all",
+   "version": "2.3.9",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:groovy-all:groovy-all:2.3.9:*:*:*:*:*:*:*",
+    "cpe:2.3:a:groovy-all:groovy_all:2.3.9:*:*:*:*:*:*:*",
+    "cpe:2.3:a:groovy_all:groovy-all:2.3.9:*:*:*:*:*:*:*",
+    "cpe:2.3:a:groovy_all:groovy_all:2.3.9:*:*:*:*:*:*:*",
+    "cpe:2.3:a:groovy:groovy-all:2.3.9:*:*:*:*:*:*:*",
+    "cpe:2.3:a:groovy:groovy_all:2.3.9:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "df000545e4865f43",
+   "name": "hamcrest",
+   "version": "2.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:hamcrest:hamcrest:2.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "1273c5e42ce75dc",
+   "name": "jackson-annotations",
+   "version": "2.14.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-annotations:jackson-annotations:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-annotations:jackson_annotations:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_annotations:jackson-annotations:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_annotations:jackson_annotations:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-annotations:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_annotations:2.14.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b3b0d10154047fd1",
+   "name": "jackson-bom",
+   "version": "2.14.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-bom:jackson-bom:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-bom:jackson_bom:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_bom:jackson-bom:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_bom:jackson_bom:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-bom:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_bom:2.14.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "9a50cd505ac3111a",
+   "name": "jackson-core",
+   "version": "2.14.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-core:jackson-core:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-core:jackson_core:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_core:jackson-core:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_core:jackson_core:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-core:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_core:2.14.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "6fb1e16b1029dee4",
+   "name": "jackson-databind",
+   "version": "2.14.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-databind:jackson-databind:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-databind:jackson_databind:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_databind:jackson-databind:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_databind:jackson_databind:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-databind:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_databind:2.14.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "74f4be5ea99d17a4",
+   "name": "jackson-datatype-jdk8",
+   "version": "2.14.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-datatype-jdk8:jackson-datatype-jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype-jdk8:jackson_datatype_jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype_jdk8:jackson-datatype-jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype_jdk8:jackson_datatype_jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype:jackson-datatype-jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype:jackson_datatype_jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype:jackson-datatype-jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype:jackson_datatype_jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-datatype-jdk8:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_datatype_jdk8:2.14.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "5725a181f82c6712",
+   "name": "jackson-datatype-jsr310",
+   "version": "2.14.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-datatype-jsr310:jackson-datatype-jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype-jsr310:jackson_datatype_jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype_jsr310:jackson-datatype-jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype_jsr310:jackson_datatype_jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype:jackson-datatype-jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-datatype:jackson_datatype_jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype:jackson-datatype-jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_datatype:jackson_datatype_jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-datatype-jsr310:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_datatype_jsr310:2.14.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "2a4b7a8e464f729",
+   "name": "jackson-module-parameter-names",
+   "version": "2.14.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jackson-module-parameter-names:jackson-module-parameter-names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module-parameter-names:jackson_module_parameter_names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module_parameter_names:jackson-module-parameter-names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module_parameter_names:jackson_module_parameter_names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module-parameter:jackson-module-parameter-names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module-parameter:jackson_module_parameter_names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module_parameter:jackson-module-parameter-names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module_parameter:jackson_module_parameter_names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module:jackson-module-parameter-names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson-module:jackson_module_parameter_names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module:jackson-module-parameter-names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson_module:jackson_module_parameter_names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson-module-parameter-names:2.14.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jackson:jackson_module_parameter_names:2.14.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "d60973d98d7fe4bf",
+   "name": "jakarta.activation-api",
+   "version": "2.1.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.activation-api:jakarta.activation-api:2.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.activation-api:jakarta.activation_api:2.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.activation_api:jakarta.activation-api:2.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.activation_api:jakarta.activation_api:2.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.activation:jakarta.activation-api:2.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.activation:jakarta.activation_api:2.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "cba296282ee13f47",
+   "name": "jakarta.annotation-api",
+   "version": "2.1.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.annotation-api:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation-api:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation_api:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation_api:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation:jakarta.annotation-api:2.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.annotation:jakarta.annotation_api:2.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "3c0b75cd2376fbbc",
+   "name": "jakarta.servlet-api",
+   "version": "6.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.servlet-api:jakarta.servlet-api:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.servlet-api:jakarta.servlet_api:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.servlet_api:jakarta.servlet-api:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.servlet_api:jakarta.servlet_api:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.servlet:jakarta.servlet-api:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.servlet:jakarta.servlet_api:6.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ff17d0eed5dcc0f4",
+   "name": "jakarta.xml.bind-api",
+   "version": "4.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jakarta.xml.bind-api:jakarta.xml.bind-api:4.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind-api:jakarta.xml.bind_api:4.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind_api:jakarta.xml.bind-api:4.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind_api:jakarta.xml.bind_api:4.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind:jakarta.xml.bind-api:4.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jakarta.xml.bind:jakarta.xml.bind_api:4.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "e856d66dbd27b81b",
+   "name": "jcommander",
+   "version": "1.35",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jcommander:jcommander:1.35:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "d4dcfbfebee15cf1",
+   "name": "jruby-complete",
+   "version": "1.7.26",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jruby-complete:jruby-complete:1.7.26:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jruby-complete:jruby_complete:1.7.26:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jruby_complete:jruby-complete:1.7.26:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jruby_complete:jruby_complete:1.7.26:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jruby:jruby-complete:1.7.26:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jruby:jruby_complete:1.7.26:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "6d97568757a14dfa",
+   "name": "json-path",
+   "version": "2.7.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:json-path:json-path:2.7.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json-path:json_path:2.7.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json_path:json-path:2.7.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json_path:json_path:2.7.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json:json-path:2.7.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json:json_path:2.7.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ed3d34f03faaca70",
+   "name": "json-smart",
+   "version": "2.4.8",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:json-smart:json-smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json-smart:json_smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json_smart:json-smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json_smart:json_smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json:json-smart:2.4.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json:json_smart:2.4.8:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "d25c26169625b3d8",
+   "name": "jsonassert",
+   "version": "1.5.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jsonassert:jsonassert:1.5.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "7c464ee69396ad57",
+   "name": "jul-to-slf4j",
+   "version": "2.0.4",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:jul-to-slf4j:jul-to-slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul-to-slf4j:jul_to_slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul_to_slf4j:jul-to-slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul_to_slf4j:jul_to_slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul-to:jul-to-slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul-to:jul_to_slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul_to:jul-to-slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul_to:jul_to_slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul:jul-to-slf4j:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jul:jul_to_slf4j:2.0.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "8030451ef1a9cb80",
+   "name": "junit-bom",
+   "version": "5.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-bom:junit-bom:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-bom:junit_bom:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_bom:junit-bom:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_bom:junit_bom:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-bom:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_bom:5.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "2d9547780f64dd5a",
+   "name": "junit-jupiter",
+   "version": "5.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-jupiter:junit-jupiter:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter:junit_jupiter:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit-jupiter:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit_jupiter:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-jupiter:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_jupiter:5.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "956b6d30f46ff812",
+   "name": "junit-jupiter-api",
+   "version": "5.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-jupiter-api:junit-jupiter-api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter-api:junit_jupiter_api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter_api:junit-jupiter-api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter_api:junit_jupiter_api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter:junit-jupiter-api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter:junit_jupiter_api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit-jupiter-api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit_jupiter_api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-jupiter-api:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_jupiter_api:5.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "f70a5d0eb3a156d",
+   "name": "junit-jupiter-engine",
+   "version": "5.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-jupiter-engine:junit-jupiter-engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter-engine:junit_jupiter_engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter_engine:junit-jupiter-engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter_engine:junit_jupiter_engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter:junit-jupiter-engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter:junit_jupiter_engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit-jupiter-engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit_jupiter_engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-jupiter-engine:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_jupiter_engine:5.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "3e58b857629e806b",
+   "name": "junit-jupiter-params",
+   "version": "5.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-jupiter-params:junit-jupiter-params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter-params:junit_jupiter_params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter_params:junit-jupiter-params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter_params:junit_jupiter_params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter:junit-jupiter-params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-jupiter:junit_jupiter_params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit-jupiter-params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_jupiter:junit_jupiter_params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-jupiter-params:5.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_jupiter_params:5.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "e43417418d93d3bf",
+   "name": "junit-platform-commons",
+   "version": "1.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-platform-commons:junit-platform-commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform-commons:junit_platform_commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_commons:junit-platform-commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_commons:junit_platform_commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit-platform-commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit_platform_commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit-platform-commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit_platform_commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-platform-commons:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_platform_commons:1.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "532d37856d4023fa",
+   "name": "junit-platform-console",
+   "version": "1.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-platform-console:junit-platform-console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform-console:junit_platform_console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_console:junit-platform-console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_console:junit_platform_console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit-platform-console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit_platform_console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit-platform-console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit_platform_console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-platform-console:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_platform_console:1.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b9a46ad0eac2eb58",
+   "name": "junit-platform-engine",
+   "version": "1.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-platform-engine:junit-platform-engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform-engine:junit_platform_engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_engine:junit-platform-engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_engine:junit_platform_engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit-platform-engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit_platform_engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit-platform-engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit_platform_engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-platform-engine:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_platform_engine:1.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "9aac1de0f07e3f26",
+   "name": "junit-platform-launcher",
+   "version": "1.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-platform-launcher:junit-platform-launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform-launcher:junit_platform_launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_launcher:junit-platform-launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_launcher:junit_platform_launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit-platform-launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit_platform_launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit-platform-launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit_platform_launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-platform-launcher:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_platform_launcher:1.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "30b299b6da2b5fba",
+   "name": "junit-platform-native",
+   "version": "0.9.18",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-platform-native:junit-platform-native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform-native:junit_platform_native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_native:junit-platform-native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_native:junit_platform_native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit-platform-native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit_platform_native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit-platform-native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit_platform_native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-platform-native:0.9.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_platform_native:0.9.18:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "38acbd8de389a511",
+   "name": "junit-platform-reporting",
+   "version": "1.9.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:junit-platform-reporting:junit-platform-reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform-reporting:junit_platform_reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_reporting:junit-platform-reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform_reporting:junit_platform_reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit-platform-reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit-platform:junit_platform_reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit-platform-reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit_platform:junit_platform_reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit-platform-reporting:1.9.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:junit:junit_platform_reporting:1.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "985baed6c5adaef6",
+   "name": "log4j-api",
+   "version": "2.19.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:log4j-api:log4j-api:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j-api:log4j_api:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j_api:log4j-api:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j_api:log4j_api:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j:log4j-api:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j:log4j_api:2.19.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "5597c1196e6b009c",
+   "name": "log4j-to-slf4j",
+   "version": "2.19.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:log4j-to-slf4j:log4j-to-slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j-to-slf4j:log4j_to_slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j_to_slf4j:log4j-to-slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j_to_slf4j:log4j_to_slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j-to:log4j-to-slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j-to:log4j_to_slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j_to:log4j-to-slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j_to:log4j_to_slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j:log4j-to-slf4j:2.19.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:log4j:log4j_to_slf4j:2.19.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "6e7dfeeed9bb991f",
+   "name": "logback-classic",
+   "version": "1.4.5",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:logback-classic:logback-classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback-classic:logback_classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_classic:logback-classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_classic:logback_classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback-classic:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback_classic:1.4.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "f36032b0c5032799",
+   "name": "logback-core",
+   "version": "1.4.5",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:logback-core:logback-core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback-core:logback_core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_core:logback-core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback_core:logback_core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback-core:1.4.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:logback:logback_core:1.4.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "d22b0cf601399c13",
+   "name": "lombok",
+   "version": "1.18.24",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:lombok:lombok:1.18.24:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "69fab350a490baab",
+   "name": "micrometer-commons",
+   "version": "1.10.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:micrometer-commons:micrometer-commons:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer-commons:micrometer_commons:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_commons:micrometer-commons:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_commons:micrometer_commons:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer-commons:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer_commons:1.10.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "46131b0c49870a17",
+   "name": "micrometer-core",
+   "version": "1.10.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:micrometer-core:micrometer-core:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer-core:micrometer_core:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_core:micrometer-core:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_core:micrometer_core:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer-core:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer_core:1.10.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "e532aab8bd4c5a22",
+   "name": "micrometer-observation",
+   "version": "1.10.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:micrometer-observation:micrometer-observation:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer-observation:micrometer_observation:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_observation:micrometer-observation:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_observation:micrometer_observation:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer-observation:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer_observation:1.10.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "84b4ae521fbe4bca",
+   "name": "micrometer-registry-prometheus",
+   "version": "1.10.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:micrometer-registry-prometheus:micrometer-registry-prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer-registry-prometheus:micrometer_registry_prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_registry_prometheus:micrometer-registry-prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_registry_prometheus:micrometer_registry_prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer-registry:micrometer-registry-prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer-registry:micrometer_registry_prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_registry:micrometer-registry-prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer_registry:micrometer_registry_prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer-registry-prometheus:1.10.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:micrometer:micrometer_registry_prometheus:1.10.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "7621d8b070f813f5",
+   "name": "mockito-core",
+   "version": "4.8.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:mockito-core:mockito-core:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito-core:mockito_core:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito_core:mockito-core:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito_core:mockito_core:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito:mockito-core:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito:mockito_core:4.8.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ac6d07bedbcafe9d",
+   "name": "mockito-junit-jupiter",
+   "version": "4.8.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:mockito-junit-jupiter:mockito-junit-jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito-junit-jupiter:mockito_junit_jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito_junit_jupiter:mockito-junit-jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito_junit_jupiter:mockito_junit_jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito-junit:mockito-junit-jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito-junit:mockito_junit_jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito_junit:mockito-junit-jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito_junit:mockito_junit_jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito:mockito-junit-jupiter:4.8.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mockito:mockito_junit_jupiter:4.8.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "16007c11c3e2a84a",
+   "name": "objenesis",
+   "version": "3.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:objenesis:objenesis:3.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "55bffe20640d7059",
+   "name": "opentest4j",
+   "version": "1.2.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:opentest4j:opentest4j:1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "d778de352c9e4c17",
+   "name": "simpleclient",
+   "version": "0.16.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:simpleclient:simpleclient:0.16.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "abb25e638698607b",
+   "name": "simpleclient_common",
+   "version": "0.16.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:simpleclient-common:simpleclient-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-common:simpleclient_common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_common:simpleclient-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_common:simpleclient_common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient_common:0.16.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "144dc7199ac4c832",
+   "name": "simpleclient_tracer_common",
+   "version": "0.16.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:simpleclient-tracer-common:simpleclient-tracer-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer-common:simpleclient_tracer_common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_common:simpleclient-tracer-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_common:simpleclient_tracer_common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer:simpleclient-tracer-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer:simpleclient_tracer_common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer:simpleclient-tracer-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer:simpleclient_tracer_common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient-tracer-common:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient_tracer_common:0.16.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "c8f77ccaed2f882",
+   "name": "simpleclient_tracer_otel",
+   "version": "0.16.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:simpleclient-tracer-otel:simpleclient-tracer-otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer-otel:simpleclient_tracer_otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_otel:simpleclient-tracer-otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_otel:simpleclient_tracer_otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer:simpleclient-tracer-otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer:simpleclient_tracer_otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer:simpleclient-tracer-otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer:simpleclient_tracer_otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient-tracer-otel:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient_tracer_otel:0.16.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "571a85154b44cbb3",
+   "name": "simpleclient_tracer_otel_agent",
+   "version": "0.16.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:simpleclient-tracer-otel-agent:simpleclient-tracer-otel-agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer-otel-agent:simpleclient_tracer_otel_agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_otel_agent:simpleclient-tracer-otel-agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_otel_agent:simpleclient_tracer_otel_agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer-otel:simpleclient-tracer-otel-agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer-otel:simpleclient_tracer_otel_agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_otel:simpleclient-tracer-otel-agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer_otel:simpleclient_tracer_otel_agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer:simpleclient-tracer-otel-agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient-tracer:simpleclient_tracer_otel_agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer:simpleclient-tracer-otel-agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient_tracer:simpleclient_tracer_otel_agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient-tracer-otel-agent:0.16.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:simpleclient:simpleclient_tracer_otel_agent:0.16.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "cd1fe4478c267723",
+   "name": "slf4j-api",
+   "version": "2.0.4",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:slf4j-api:slf4j-api:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j-api:slf4j_api:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j_api:slf4j-api:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j_api:slf4j_api:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j:slf4j-api:2.0.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:slf4j:slf4j_api:2.0.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "a0fd9276c0c52511",
+   "name": "snakeyaml",
+   "version": "1.33",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:snakeyaml:snakeyaml:1.33:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "6d008472dd363ab6",
+   "name": "spring-aop",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-aop:spring-aop:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-aop:spring_aop:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_aop:spring-aop:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_aop:spring_aop:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-aop:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_aop:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "fb62f7f1c37aab69",
+   "name": "spring-beans",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-beans:spring-beans:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-beans:spring_beans:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_beans:spring-beans:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_beans:spring_beans:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-beans:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_beans:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "f413150a14998cae",
+   "name": "spring-boot",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot:spring-boot:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "c57b8acb89e9af8f",
+   "name": "spring-boot-autoconfigure",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-autoconfigure:spring-boot-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-autoconfigure:spring_boot_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_autoconfigure:spring-boot-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_autoconfigure:spring_boot_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_autoconfigure:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "4c5d6b28b801deef",
+   "name": "spring-boot-dependencies",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-dependencies:spring-boot-dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-dependencies:spring_boot_dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_dependencies:spring-boot-dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_dependencies:spring_boot_dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-dependencies:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_dependencies:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ebcf4fe029f7651c",
+   "name": "spring-boot-devtools",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-devtools:spring-boot-devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-devtools:spring_boot_devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_devtools:spring-boot-devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_devtools:spring_boot_devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-devtools:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_devtools:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "a4119bb78735d8c4",
+   "name": "spring-boot-starter",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-starter:spring-boot-starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring_boot_starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring-boot-starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring_boot_starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-starter:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_starter:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "628c4b239fb01fa5",
+   "name": "spring-boot-starter-json",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-starter-json:spring-boot-starter-json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter-json:spring_boot_starter_json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_json:spring-boot-starter-json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_json:spring_boot_starter_json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring-boot-starter-json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring_boot_starter_json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring-boot-starter-json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring_boot_starter_json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-starter-json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_starter_json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-starter-json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_starter_json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-starter-json:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_starter_json:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "28265c6db1ed614a",
+   "name": "spring-boot-starter-logging",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-starter-logging:spring-boot-starter-logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter-logging:spring_boot_starter_logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_logging:spring-boot-starter-logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_logging:spring_boot_starter_logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring-boot-starter-logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring_boot_starter_logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring-boot-starter-logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring_boot_starter_logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-starter-logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_starter_logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-starter-logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_starter_logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-starter-logging:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_starter_logging:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "5835acda03a51391",
+   "name": "spring-boot-starter-security",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-starter-security:spring-boot-starter-security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter-security:spring_boot_starter_security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_security:spring-boot-starter-security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_security:spring_boot_starter_security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring-boot-starter-security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring_boot_starter_security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring-boot-starter-security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring_boot_starter_security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-starter-security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_starter_security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-starter-security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_starter_security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-starter-security:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_starter_security:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "4b70a43396141062",
+   "name": "spring-boot-starter-test",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-starter-test:spring-boot-starter-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter-test:spring_boot_starter_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_test:spring-boot-starter-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_test:spring_boot_starter_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring-boot-starter-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring_boot_starter_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring-boot-starter-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring_boot_starter_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-starter-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_starter_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-starter-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_starter_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-starter-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_starter_test:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "809dd8c2f6700a84",
+   "name": "spring-boot-starter-tomcat",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-starter-tomcat:spring-boot-starter-tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter-tomcat:spring_boot_starter_tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_tomcat:spring-boot-starter-tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_tomcat:spring_boot_starter_tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring-boot-starter-tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring_boot_starter_tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring-boot-starter-tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring_boot_starter_tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-starter-tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_starter_tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-starter-tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_starter_tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-starter-tomcat:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_starter_tomcat:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b0900a13161db033",
+   "name": "spring-boot-starter-web",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-starter-web:spring-boot-starter-web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter-web:spring_boot_starter_web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_web:spring-boot-starter-web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter_web:spring_boot_starter_web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring-boot-starter-web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-starter:spring_boot_starter_web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring-boot-starter-web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_starter:spring_boot_starter_web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-starter-web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_starter_web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-starter-web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_starter_web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-starter-web:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_starter_web:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "c96c1a9c40d29304",
+   "name": "spring-boot-test",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-test:spring-boot-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-test:spring_boot_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_test:spring-boot-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_test:spring_boot_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-test:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_test:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "f5f87d1b5535fb18",
+   "name": "spring-boot-test-autoconfigure",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-boot-test-autoconfigure:spring-boot-test-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-test-autoconfigure:spring_boot_test_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_test_autoconfigure:spring-boot-test-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_test_autoconfigure:spring_boot_test_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-test:spring-boot-test-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot-test:spring_boot_test_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_test:spring-boot-test-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot_test:spring_boot_test_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring-boot-test-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-boot:spring_boot_test_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring-boot-test-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_boot:spring_boot_test_autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-boot-test-autoconfigure:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_boot_test_autoconfigure:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b5309a5f5fdaa07",
+   "name": "spring-context",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-context:spring-context:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-context:spring_context:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_context:spring-context:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_context:spring_context:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-context:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_context:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "633b52438eabd7a4",
+   "name": "spring-core",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:springsource-spring-framework:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring_framework:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource-spring:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:pivotal_software:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-framework:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_framework:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource-spring-framework:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring_framework:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-core:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_core:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource-spring-framework:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource-spring-framework:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring_framework:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring_framework:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource-spring:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:vmware:springsource_spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:pivotal_software:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-framework:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_framework:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource-spring:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource-spring:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource_spring:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:pivotal_software:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:pivotal_software:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-core:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-framework:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-framework:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_core:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_framework:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_framework:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:springsource:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-core:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-core:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_core:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_core:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:vmware:spring_framework:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:vmware:spring-core:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:vmware:spring_core:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "4026f4fab8424ff7",
+   "name": "spring-expression",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-expression:spring-expression:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-expression:spring_expression:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_expression:spring-expression:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_expression:spring_expression:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-expression:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_expression:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "8ba7744d6b56e4ac",
+   "name": "spring-jcl",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-jcl:spring-jcl:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-jcl:spring_jcl:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_jcl:spring-jcl:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_jcl:spring_jcl:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-jcl:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_jcl:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ce2230d5b1e1a123",
+   "name": "spring-restdocs-core",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-restdocs-core:spring-restdocs-core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-restdocs-core:spring_restdocs_core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs_core:spring-restdocs-core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs_core:spring_restdocs_core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-restdocs:spring-restdocs-core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-restdocs:spring_restdocs_core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs:spring-restdocs-core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs:spring_restdocs_core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-restdocs-core:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_restdocs_core:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "390a0f98600b3836",
+   "name": "spring-restdocs-mockmvc",
+   "version": "3.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-restdocs-mockmvc:spring-restdocs-mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-restdocs-mockmvc:spring_restdocs_mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs_mockmvc:spring-restdocs-mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs_mockmvc:spring_restdocs_mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-restdocs:spring-restdocs-mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-restdocs:spring_restdocs_mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs:spring-restdocs-mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_restdocs:spring_restdocs_mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-restdocs-mockmvc:3.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_restdocs_mockmvc:3.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "2baf9e5aba24a6ac",
+   "name": "spring-security-config",
+   "version": "6.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-security-config:spring-security-config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security-config:spring_security_config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_config:spring-security-config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_config:spring_security_config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring-security-config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring_security_config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring-security-config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring_security_config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-security-config:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_security_config:6.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b235b9e878159bb9",
+   "name": "spring-security-core",
+   "version": "6.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-security-core:spring-security-core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security-core:spring_security_core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_core:spring-security-core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_core:spring_security_core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring-security-core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring_security_core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring-security-core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring_security_core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-security-core:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_security_core:6.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "448d32d3a18b98ac",
+   "name": "spring-security-crypto",
+   "version": "6.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-security-crypto:spring-security-crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security-crypto:spring_security_crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_crypto:spring-security-crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_crypto:spring_security_crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring-security-crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring_security_crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring-security-crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring_security_crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-security-crypto:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_security_crypto:6.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b5856504c45ad75",
+   "name": "spring-security-test",
+   "version": "6.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-security-test:spring-security-test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security-test:spring_security_test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_test:spring-security-test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_test:spring_security_test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring-security-test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring_security_test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring-security-test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring_security_test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-security-test:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_security_test:6.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "e058575a9da47af1",
+   "name": "spring-security-web",
+   "version": "6.0.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-security-web:spring-security-web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security-web:spring_security_web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_web:spring-security-web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security_web:spring_security_web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring-security-web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-security:spring_security_web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring-security-web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_security:spring_security_web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-security-web:6.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_security_web:6.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "b092b69775730831",
+   "name": "spring-test",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-test:spring-test:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-test:spring_test:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_test:spring-test:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_test:spring_test:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-test:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_test:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "ae340f9b36da1255",
+   "name": "spring-web",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-web:spring-web:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-web:spring_web:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_web:spring-web:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_web:spring_web:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-web:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_web:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "c6fc2d01df3f9b2e",
+   "name": "spring-webmvc",
+   "version": "6.0.2",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:spring-webmvc:spring-webmvc:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring-webmvc:spring_webmvc:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_webmvc:spring-webmvc:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring_webmvc:spring_webmvc:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring-webmvc:6.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spring:spring_webmvc:6.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "11aed7e86b8fe8a6",
+   "name": "tomcat-embed-core",
+   "version": "10.1.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:tomcat-embed-core:tomcat-embed-core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed-core:tomcat_embed_core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed_core:tomcat-embed-core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed_core:tomcat_embed_core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed:tomcat-embed-core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed:tomcat_embed_core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed:tomcat-embed-core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed:tomcat_embed_core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat:tomcat-embed-core:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat:tomcat_embed_core:10.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "83fa9f0165243aab",
+   "name": "tomcat-embed-el",
+   "version": "10.1.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:tomcat-embed-el:tomcat-embed-el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed-el:tomcat_embed_el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed_el:tomcat-embed-el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed_el:tomcat_embed_el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed:tomcat-embed-el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed:tomcat_embed_el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed:tomcat-embed-el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed:tomcat_embed_el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat:tomcat-embed-el:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat:tomcat_embed_el:10.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "770d664d60116e39",
+   "name": "tomcat-embed-websocket",
+   "version": "10.1.1",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:tomcat-embed-websocket:tomcat-embed-websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed-websocket:tomcat_embed_websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed_websocket:tomcat-embed-websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed_websocket:tomcat_embed_websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed:tomcat-embed-websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat-embed:tomcat_embed_websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed:tomcat-embed-websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat_embed:tomcat_embed_websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat:tomcat-embed-websocket:10.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:tomcat:tomcat_embed_websocket:10.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "cf8c04b644cb8bfe",
+   "name": "toml",
+   "version": "3.6.6",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:toml:toml:3.6.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  },
+  {
+   "id": "625626d74a7eb1ab",
+   "name": "xmlunit-core",
+   "version": "2.9.0",
+   "type": "java-archive",
+   "foundBy": "java-gradle-lockfile-cataloger",
+   "locations": [
+    {
+     "path": "gradle.lockfile"
+    }
+   ],
+   "licenses": [],
+   "language": "java",
+   "cpes": [
+    "cpe:2.3:a:xmlunit-core:xmlunit-core:2.9.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xmlunit-core:xmlunit_core:2.9.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xmlunit_core:xmlunit-core:2.9.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xmlunit_core:xmlunit_core:2.9.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xmlunit:xmlunit-core:2.9.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xmlunit:xmlunit_core:2.9.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "",
+   "metadataType": "JavaMetadata"
+  }
+ ],
+ "artifactRelationships": [
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "11aed7e86b8fe8a6",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "1273c5e42ce75dc",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "144dc7199ac4c832",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "16007c11c3e2a84a",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "28265c6db1ed614a",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "2a4b7a8e464f729",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "2baf9e5aba24a6ac",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "2d9547780f64dd5a",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "30b299b6da2b5fba",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "31fb879935017aba",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "38acbd8de389a511",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "390a0f98600b3836",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "3c0b75cd2376fbbc",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "3e58b857629e806b",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "4026f4fab8424ff7",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "4238ebc735d494ee",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "448d32d3a18b98ac",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "451344a89f1b30bc",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "46131b0c49870a17",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "4b70a43396141062",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "4c5d6b28b801deef",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "532d37856d4023fa",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "5597c1196e6b009c",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "55bffe20640d7059",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "571a85154b44cbb3",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "5725a181f82c6712",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "5835acda03a51391",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "625626d74a7eb1ab",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "628c4b239fb01fa5",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "633b52438eabd7a4",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "63461c173208dbbd",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "69fab350a490baab",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "6d008472dd363ab6",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "6d97568757a14dfa",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "6e7dfeeed9bb991f",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "6fb1e16b1029dee4",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "74f4be5ea99d17a4",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "7621d8b070f813f5",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "770d664d60116e39",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "7c464ee69396ad57",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "7fbeadc07b7163fa",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "8030451ef1a9cb80",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "809dd8c2f6700a84",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "83fa9f0165243aab",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "84b4ae521fbe4bca",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "8ba7744d6b56e4ac",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "956b6d30f46ff812",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "97ddf96bdbe96973",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "98100fa13da51f78",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "985baed6c5adaef6",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "987433405f36750",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "9a50cd505ac3111a",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "9aac1de0f07e3f26",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "a0fd9276c0c52511",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "a4119bb78735d8c4",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "abb25e638698607b",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ac6d07bedbcafe9d",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ae340f9b36da1255",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b02705d55d519ca",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b0900a13161db033",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b092b69775730831",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b17634ebbc87816e",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b235b9e878159bb9",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b2fa7d1d4f37c1a7",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b3b0d10154047fd1",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b5309a5f5fdaa07",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b5856504c45ad75",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "b9a46ad0eac2eb58",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "c32054c31ac519b4",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "c57b8acb89e9af8f",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "c6fc2d01df3f9b2e",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "c8f77ccaed2f882",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "c96c1a9c40d29304",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "cba296282ee13f47",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "cd1fe4478c267723",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ce2230d5b1e1a123",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "cf8c04b644cb8bfe",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "d22b0cf601399c13",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "d25c26169625b3d8",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "d4dcfbfebee15cf1",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "d60973d98d7fe4bf",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "d778de352c9e4c17",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "df000545e4865f43",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "e058575a9da47af1",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "e43417418d93d3bf",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "e532aab8bd4c5a22",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "e856d66dbd27b81b",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ea9ce5ad6d855e5f",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ebcf4fe029f7651c",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ed3d34f03faaca70",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ed948208fa344a7c",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "f36032b0c5032799",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "f413150a14998cae",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "f5f87d1b5535fb18",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "f70a5d0eb3a156d",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "fb62f7f1c37aab69",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ff17d0eed5dcc0f4",
+   "type": "contains"
+  },
+  {
+   "parent": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+   "child": "ff9b07492bbef1cb",
+   "type": "contains"
+  }
+ ],
+ "files": [
+  {
+   "id": "99985a75ce0b35af",
+   "location": {
+    "path": ".git"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "3d2bbffb8b85528a",
+   "location": {
+    "path": ".git/COMMIT_EDITMSG"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "3b91c99ec1c3c3765e963d449c8a8949b972b9233e10badcc64d2f1d080cc584"
+    }
+   ]
+  },
+  {
+   "id": "8788cd7e8339279c",
+   "location": {
+    "path": ".git/FETCH_HEAD"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "ae6c040109a9c6e13e22e117f288e659ed60c659be46d8bc3d355991430bd382"
+    }
+   ]
+  },
+  {
+   "id": "43d6ba58def911c6",
+   "location": {
+    "path": ".git/HEAD"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "28d25bf82af4c0e2b72f50959b2beb859e3e60b9630a5e8c603dad4ddb2b6e80"
+    }
+   ]
+  },
+  {
+   "id": "ad6bd98c419411f7",
+   "location": {
+    "path": ".git/config"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "74087f3ba3698a2c73bd14cc891d023aa9e85bb86ca8ec3534de7535aef1c8a2"
+    }
+   ]
+  },
+  {
+   "id": "314a82127c5f2c42",
+   "location": {
+    "path": ".git/description"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "85ab6c163d43a17ea9cf7788308bca1466f1b0a8d1cc92e26e9bf63da4062aee"
+    }
+   ]
+  },
+  {
+   "id": "b2c602510372f687",
+   "location": {
+    "path": ".git/hooks"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "1e469980fc037305",
+   "location": {
+    "path": ".git/hooks/applypatch-msg.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "0223497a0b8b033aa58a3a521b8629869386cf7ab0e2f101963d328aa62193f7"
+    }
+   ]
+  },
+  {
+   "id": "d558996b8815c7d1",
+   "location": {
+    "path": ".git/hooks/commit-msg.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "1f74d5e9292979b573ebd59741d46cb93ff391acdd083d340b94370753d92437"
+    }
+   ]
+  },
+  {
+   "id": "ea115840f1021657",
+   "location": {
+    "path": ".git/hooks/fsmonitor-watchman.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/x-perl"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e0549964e93897b519bd8e333c037e51fff0f88ba13e086a331592bf801fa1d0"
+    }
+   ]
+  },
+  {
+   "id": "573dd9e7e52fc49c",
+   "location": {
+    "path": ".git/hooks/post-update.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "81765af2daef323061dcbc5e61fc16481cb74b3bac9ad8a174b186523586f6c5"
+    }
+   ]
+  },
+  {
+   "id": "629a7558ec57ed36",
+   "location": {
+    "path": ".git/hooks/pre-applypatch.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e15c5b469ea3e0a695bea6f2c82bcf8e62821074939ddd85b77e0007ff165475"
+    }
+   ]
+  },
+  {
+   "id": "849e7394a3525de6",
+   "location": {
+    "path": ".git/hooks/pre-commit.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "f9af7d95eb1231ecf2eba9770fedfa8d4797a12b02d7240e98d568201251244a"
+    }
+   ]
+  },
+  {
+   "id": "6362ddad111fce39",
+   "location": {
+    "path": ".git/hooks/pre-merge-commit.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "d3825a70337940ebbd0a5c072984e13245920cdf8898bd225c8d27a6dfc9cb53"
+    }
+   ]
+  },
+  {
+   "id": "e1466d8455e3890a",
+   "location": {
+    "path": ".git/hooks/pre-push.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "ecce9c7e04d3f5dd9d8ada81753dd1d549a9634b26770042b58dda00217d086a"
+    }
+   ]
+  },
+  {
+   "id": "e20599ea07412b8f",
+   "location": {
+    "path": ".git/hooks/pre-rebase.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "4febce867790052338076f4e66cc47efb14879d18097d1d61c8261859eaaa7b3"
+    }
+   ]
+  },
+  {
+   "id": "a945532488ce481c",
+   "location": {
+    "path": ".git/hooks/pre-receive.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "a4c3d2b9c7bb3fd8d1441c31bd4ee71a595d66b44fcf49ddb310252320169989"
+    }
+   ]
+  },
+  {
+   "id": "b612ac7eabd04c7f",
+   "location": {
+    "path": ".git/hooks/prepare-commit-msg.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e9ddcaa4189fddd25ed97fc8c789eca7b6ca16390b2392ae3276f0c8e1aa4619"
+    }
+   ]
+  },
+  {
+   "id": "e4626cefc4adac6",
+   "location": {
+    "path": ".git/hooks/push-to-checkout.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "a53d0741798b287c6dd7afa64aee473f305e65d3f49463bb9d7408ec3b12bf5f"
+    }
+   ]
+  },
+  {
+   "id": "103c4abf57eddc5f",
+   "location": {
+    "path": ".git/hooks/update.sample"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "8d5f2fa83e103cf08b57eaa67521df9194f45cbdbcb37da52ad586097a14d106"
+    }
+   ]
+  },
+  {
+   "id": "f0db2f1cb8789b0c",
+   "location": {
+    "path": ".git/index"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "bb06ca4126950f7852d68296e381493daaddd601960fc49e85a9435fa2ca70ce"
+    }
+   ]
+  },
+  {
+   "id": "ecc96865d9ed0cbf",
+   "location": {
+    "path": ".git/info"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "43ff06db85a57a35",
+   "location": {
+    "path": ".git/info/exclude"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "6671fe83b7a07c8932ee89164d1f2793b2318058eb8b98dc5c06ee0a5a3b0ec1"
+    }
+   ]
+  },
+  {
+   "id": "fb6e096a856900f2",
+   "location": {
+    "path": ".git/logs"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "6d99fa8c66e902c9",
+   "location": {
+    "path": ".git/logs/HEAD"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "6d0f92c30adf7724f91140c68280d3645bb1b90955fa879ff9c7075f61677fdd"
+    }
+   ]
+  },
+  {
+   "id": "70fa09ca48db346c",
+   "location": {
+    "path": ".git/logs/refs"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "303d1e48439a5b04",
+   "location": {
+    "path": ".git/logs/refs/heads"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "bce970df67d32b37",
+   "location": {
+    "path": ".git/logs/refs/heads/main"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "6d0f92c30adf7724f91140c68280d3645bb1b90955fa879ff9c7075f61677fdd"
+    }
+   ]
+  },
+  {
+   "id": "de7dfc15a22425ef",
+   "location": {
+    "path": ".git/logs/refs/remotes"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "76f83f429f27eb69",
+   "location": {
+    "path": ".git/logs/refs/remotes/origin"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "18787ef74a1697f5",
+   "location": {
+    "path": ".git/logs/refs/remotes/origin/main"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "4ae87000930d762345ac7430672c8942bac4e83b93a8d0ed4fa59b69e0e6ef7d"
+    }
+   ]
+  },
+  {
+   "id": "5ebeb5f0d54674d3",
+   "location": {
+    "path": ".git/objects"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "34b13b6a9e2275f5",
+   "location": {
+    "path": ".git/objects/09"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "6309cba06ce83873",
+   "location": {
+    "path": ".git/objects/09/b4cf1d92daa3957ba1e38b2edc5f5209dbee3d"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "084f99dad27675b1e407f8ca299f9a4b9ec4bfc7ecfe78b031c92040316059d0"
+    }
+   ]
+  },
+  {
+   "id": "51defb9e318d5ca5",
+   "location": {
+    "path": ".git/objects/0c"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "c2220a7db1930480",
+   "location": {
+    "path": ".git/objects/0c/c2ee707913f4e8bbc9024528e204b2ada17f7e"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "39e033b236b4fdf6183204aa9a5757897515787bbae78e63c20b5c80e90a7600"
+    }
+   ]
+  },
+  {
+   "id": "a6b81a999f2b36fd",
+   "location": {
+    "path": ".git/objects/17"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "4dc0d52880d973e2",
+   "location": {
+    "path": ".git/objects/17/c9769023fa8c98f3b7a5213428cb7c5063d268"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "55a68daab8173d070826f462d7be1c7608ce4094202b59614fff55afc93e9421"
+    }
+   ]
+  },
+  {
+   "id": "e00c618d3e0283c7",
+   "location": {
+    "path": ".git/objects/20"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "315f561763ff2745",
+   "location": {
+    "path": ".git/objects/20/ec5e246664926c6991349e6dc160cc8feec871"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "41010466152f16ca8383c5f83797a48665e09a17e511b6038199b872fee18845"
+    }
+   ]
+  },
+  {
+   "id": "814cefabbc5fe281",
+   "location": {
+    "path": ".git/objects/24"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "196c28464b8d0787",
+   "location": {
+    "path": ".git/objects/24/9e5832f090a2944b7473328c07c9755baa3196"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "69585e268fa774975397c81a0d8d6f5589d05dd0d772f7de6a632b2adcdb0efb"
+    }
+   ]
+  },
+  {
+   "id": "e40be58a052689ea",
+   "location": {
+    "path": ".git/objects/39"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "b6ce57294b862dc6",
+   "location": {
+    "path": ".git/objects/39/61f637eca9ff78cbb64c46d00528a8f7235026"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "650e4f03327dd9770ad8f89f15b02d09fa5ae222437535805eb8648bd357191b"
+    }
+   ]
+  },
+  {
+   "id": "5236fb8f5d7d7eff",
+   "location": {
+    "path": ".git/objects/53"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "8b15eaf01109eb6f",
+   "location": {
+    "path": ".git/objects/53/a6b238d414d91c30c5644c82393d27416fbbe6"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "97defe1becbc73885554e6116e16e7e15707898ee1d5da229c590733a98a59fd"
+    }
+   ]
+  },
+  {
+   "id": "d69c6644b28b27f5",
+   "location": {
+    "path": ".git/objects/53/bdede8f83a7727163f00ecd851cbd7c6ed634a"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "376f6612c80ba8a919a3c70a0d811cdb8b55c62d024c85aed8844d790e051149"
+    }
+   ]
+  },
+  {
+   "id": "1a012aa56db2d706",
+   "location": {
+    "path": ".git/objects/53/df7ecfa11466dc79509a0fc30ab31aa1736e5c"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "43cdd3403a8e602b0898dfb3380473a73c29306d377a143fa763b1122caabab1"
+    }
+   ]
+  },
+  {
+   "id": "4c7d3ff32954306a",
+   "location": {
+    "path": ".git/objects/56"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "44a07835c056ab3d",
+   "location": {
+    "path": ".git/objects/56/0f8f07984a3c0b64f7460f805a6e0d3a152c37"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "8d8965c54973b259b32623d708fed4af8d573eb00e4701e99f58cafb9ce2e3c6"
+    }
+   ]
+  },
+  {
+   "id": "548422b4e2cb83d9",
+   "location": {
+    "path": ".git/objects/72"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "81580a20610b4be9",
+   "location": {
+    "path": ".git/objects/72/338741e7993d0d87aa4ea332767c3c14b3caf5"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e214a572999887e119962cbc3bba16dfdde14accba05989c35f9f0672991977f"
+    }
+   ]
+  },
+  {
+   "id": "db7026bda347681d",
+   "location": {
+    "path": ".git/objects/80"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "ff1b4fe11d476fc4",
+   "location": {
+    "path": ".git/objects/80/2113fc1998210822ab0d64549135e7d3706646"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "68e0dcb99d22d4ec3238363f3ab865bae94925ce758e3d2397587d8813b93f58"
+    }
+   ]
+  },
+  {
+   "id": "7ff3a96b1dedba9a",
+   "location": {
+    "path": ".git/objects/8b"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "4ebb86e131fb23b2",
+   "location": {
+    "path": ".git/objects/8b/137891791fe96927ad78e64b0aad7bded08bdc"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "a25e48d49327f35569e5d25fc64cce3822b7d1402ff13fb8a031139543510477"
+    }
+   ]
+  },
+  {
+   "id": "94a7e86a57dbf49a",
+   "location": {
+    "path": ".git/objects/8d"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "87028112866c2a03",
+   "location": {
+    "path": ".git/objects/8d/c63f1ab195d22715fec3b3a607f81e3253165b"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "db34ae31cc02e9b89cdbb2e2bb2bef2bec34cdf13c6278549507d530ecbd8bdf"
+    }
+   ]
+  },
+  {
+   "id": "21bacc3c092e35b1",
+   "location": {
+    "path": ".git/objects/9c"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "116d78a7bf900dd8",
+   "location": {
+    "path": ".git/objects/9c/d6741861188aa17a1e517bc175cb2b1fc701cb"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "b1c2b6bf311000ff3383e49b2f9fe7b05831730ea6681c85a73bb2ae5ae64711"
+    }
+   ]
+  },
+  {
+   "id": "ca9900fddae6470",
+   "location": {
+    "path": ".git/objects/a6"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "e9d1daabebdd2637",
+   "location": {
+    "path": ".git/objects/a6/9d9cb6c20655813e44515156e7253a2a239138"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "983196fc19b53d7f032fba8079ed686a2bcaa2970280fd7d923b86dd9e37a8e1"
+    }
+   ]
+  },
+  {
+   "id": "2a66aba9f0ea5881",
+   "location": {
+    "path": ".git/objects/ae"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "3d75fa05d7d5bdcb",
+   "location": {
+    "path": ".git/objects/ae/04661ee733431762e7ccf8ab9b7409ed44960c"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "9c541dbec4dca16042fc83ad3cf201aa2ed859cfca003df08b963f8c9c773fb9"
+    }
+   ]
+  },
+  {
+   "id": "f1812827e984a004",
+   "location": {
+    "path": ".git/objects/b8"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "b229702447e70709",
+   "location": {
+    "path": ".git/objects/b8/1d4731012cdb16d07b406b61cf9bf54dc39e79"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "3984bfc4309a5e1b33b6b1deb32868aa5e530c6b1a52991bbc6fdfeeec655002"
+    }
+   ]
+  },
+  {
+   "id": "47adc1499aff32bf",
+   "location": {
+    "path": ".git/objects/bb"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "151315cca0fe160b",
+   "location": {
+    "path": ".git/objects/bb/28dff723dba7aed54c9b0e97e39bd5668d81c3"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "9c23576d03d12f528cd627317f7dd764e0f1f1ae4449cbc415508b3ebf80185c"
+    }
+   ]
+  },
+  {
+   "id": "dc7b0e5ab8b505bf",
+   "location": {
+    "path": ".git/objects/c2"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "bbc37a1dff89f37c",
+   "location": {
+    "path": ".git/objects/c2/065bc26202b2d072aca3efc3d1c2efad3afcbf"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "b414594d979004e1f55f575f8c38094e0ffe5cbce29cbed34a7519aa889afa8d"
+    }
+   ]
+  },
+  {
+   "id": "802792fcc94f7934",
+   "location": {
+    "path": ".git/objects/cb"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "3564d1a04d9a45cf",
+   "location": {
+    "path": ".git/objects/cb/a3de214e5f05d1a8209e8abbc8f8f1aade38c4"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "606278e9ec8f3273b45506c7e662b107ca6632f70ad68f9e4d00e1de9ec7eb78"
+    }
+   ]
+  },
+  {
+   "id": "350221ebd4450b94",
+   "location": {
+    "path": ".git/objects/d4"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "58592a5034f7f2ac",
+   "location": {
+    "path": ".git/objects/d4/cc771ce29093517fcba3550ab708f09a850a62"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "1f28118c1ff7c71f4007bbc441c40f4293de2ef707504140b3044f400b67a822"
+    }
+   ]
+  },
+  {
+   "id": "28fbed4454cc1f3f",
+   "location": {
+    "path": ".git/objects/e2"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "524ce23d5645eb41",
+   "location": {
+    "path": ".git/objects/e2/5acedaf747241d2004d5a2de09145c715502b2"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "d789566f25b67acf191df20cdaaff7332f4906d502cf5b7697214aaf051ce2b5"
+    }
+   ]
+  },
+  {
+   "id": "f1a484689c05912c",
+   "location": {
+    "path": ".git/objects/e4"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "94f6f0e597cb623f",
+   "location": {
+    "path": ".git/objects/e4/f80d0a6d70e923afc730bdd48518ec437109eb"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "47b649589c5931e225ca94c58697ec6acd019c1593f59aa51e9358f4986a1754"
+    }
+   ]
+  },
+  {
+   "id": "8789e32c283bcd5",
+   "location": {
+    "path": ".git/objects/e6"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "adde8b371858362a",
+   "location": {
+    "path": ".git/objects/e6/bbb56ef20f2b820da601c1aa27e0fb263a8c8a"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "dd11a9650b08f2203551af7ab7d41895859e68f9649b19d0a91916a3c9bd1c17"
+    }
+   ]
+  },
+  {
+   "id": "5d9b9a92ba8e162e",
+   "location": {
+    "path": ".git/objects/eb"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "e3d755dbf8d230ab",
+   "location": {
+    "path": ".git/objects/eb/c893d798866eacd8ecda95b93204af586516bb"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "edff9526cf0d969802fd1aad7da4ec29a63af130d6dba4003e5019188645af9b"
+    }
+   ]
+  },
+  {
+   "id": "722e36214c013f7a",
+   "location": {
+    "path": ".git/objects/ef"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "2e811d1fa1125c5",
+   "location": {
+    "path": ".git/objects/ef/14ba3b749fc0e21a0c46da4f0523d4922ad933"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "6480e4be29534d19bc2a17558fdbae92f78e616ec51968bae09bb4d5e6e519e1"
+    }
+   ]
+  },
+  {
+   "id": "f962eb1b054e5f8f",
+   "location": {
+    "path": ".git/objects/f9"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "550d9e420bc21453",
+   "location": {
+    "path": ".git/objects/f9/5e779b012b387ab59dc0c70c78deb9b908cc31"
+   },
+   "metadata": {
+    "mode": 444,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "6505733ad748e64f7ffc9b2dc5556ce006dd3abf51b607c6dc9e14a9823cab43"
+    }
+   ]
+  },
+  {
+   "id": "fc651bf6a2bfafa3",
+   "location": {
+    "path": ".git/objects/info"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "63e647bc9e1784ed",
+   "location": {
+    "path": ".git/objects/pack"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "4c5ec00f9d3c3ded",
+   "location": {
+    "path": ".git/refs"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "3d6a25727ff355f4",
+   "location": {
+    "path": ".git/refs/heads"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "54ac83f098b61f0c",
+   "location": {
+    "path": ".git/refs/heads/main"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e0431ef598910b6ea4e200a6a231999fe3f4eb5b6ee83f4fcb6172657e7a1972"
+    }
+   ]
+  },
+  {
+   "id": "5dda6cf36f49c9bf",
+   "location": {
+    "path": ".git/refs/remotes"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "462d2af39ab1f098",
+   "location": {
+    "path": ".git/refs/remotes/origin"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "ac85a5cd7c932669",
+   "location": {
+    "path": ".git/refs/remotes/origin/main"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e0431ef598910b6ea4e200a6a231999fe3f4eb5b6ee83f4fcb6172657e7a1972"
+    }
+   ]
+  },
+  {
+   "id": "6762dc400f4306a1",
+   "location": {
+    "path": ".git/refs/tags"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "9a0edf420a89ac9a",
+   "location": {
+    "path": ".gitignore"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "795029e58e368bb91c71cb3adb971491562622d4b1684604f278cdbfb8fec238"
+    }
+   ]
+  },
+  {
+   "id": "702b5cac0511d4fb",
+   "location": {
+    "path": ".gradle"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "dff61b6096b237a7",
+   "location": {
+    "path": ".gradle/7.5.1"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "6693a63c3190b1d5",
+   "location": {
+    "path": ".gradle/7.5.1/checksums"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "68e1630dc159d015",
+   "location": {
+    "path": ".gradle/7.5.1/checksums/checksums.lock"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "4b9d275a1da3df7018d599b55adda086dd38c5f07a529db2d3f6245ab7cc6e1d"
+    }
+   ]
+  },
+  {
+   "id": "e739952ad73cf12e",
+   "location": {
+    "path": ".gradle/7.5.1/checksums/md5-checksums.bin"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "9dd3cde735d84592970b19e47ad6db2df87550594299c4e7eb6607810006adc6"
+    }
+   ]
+  },
+  {
+   "id": "ba7bc5329ce575da",
+   "location": {
+    "path": ".gradle/7.5.1/checksums/sha1-checksums.bin"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "30db50a4f5243b0667a89344862a0653983c1fdebed36069219ea514a8bac2ee"
+    }
+   ]
+  },
+  {
+   "id": "ad196a3ca0b754d8",
+   "location": {
+    "path": ".gradle/7.5.1/dependencies-accessors"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "8ce3f85ecc752eca",
+   "location": {
+    "path": ".gradle/7.5.1/dependencies-accessors/dependencies-accessors.lock"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "87832504019b20128d4fdc9efff4dfd69dca0237e5bdcf431591a82cc403417b"
+    }
+   ]
+  },
+  {
+   "id": "dfde1c75d0597950",
+   "location": {
+    "path": ".gradle/7.5.1/dependencies-accessors/gc.properties"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+   ]
+  },
+  {
+   "id": "f87acad4320833d5",
+   "location": {
+    "path": ".gradle/7.5.1/executionHistory"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "6c549bba4a95549e",
+   "location": {
+    "path": ".gradle/7.5.1/executionHistory/executionHistory.bin"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "481c4b2bf59c5eb250da8e10cf35ad77d7224fa90fbf428bcf2aeffd59682db7"
+    }
+   ]
+  },
+  {
+   "id": "4063966a31ecc8d9",
+   "location": {
+    "path": ".gradle/7.5.1/executionHistory/executionHistory.lock"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "216735c51194e1e698b26e7a772930f394054b9c83efa0e5d45e6a493ad5d0bc"
+    }
+   ]
+  },
+  {
+   "id": "1e0b1f007d794675",
+   "location": {
+    "path": ".gradle/7.5.1/fileChanges"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "e20bab7a5af5292f",
+   "location": {
+    "path": ".gradle/7.5.1/fileChanges/last-build.bin"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "6e340b9cffb37a989ca544e6bb780a2c78901d3fb33738768511a30617afa01d"
+    }
+   ]
+  },
+  {
+   "id": "35de0bc82c7041dc",
+   "location": {
+    "path": ".gradle/7.5.1/fileHashes"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "62d35651d5db5c4e",
+   "location": {
+    "path": ".gradle/7.5.1/fileHashes/fileHashes.bin"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e35ac29fb2244d2033d07c92649b09e8c6335817e4a299dfab5a52c237764248"
+    }
+   ]
+  },
+  {
+   "id": "989750b79af72b92",
+   "location": {
+    "path": ".gradle/7.5.1/fileHashes/fileHashes.lock"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "54b8b8fb721d9a6662889d9cf1960ca36a500ac4beb4aeabd24bf789cb43d19d"
+    }
+   ]
+  },
+  {
+   "id": "3b934e99f310f25b",
+   "location": {
+    "path": ".gradle/7.5.1/fileHashes/resourceHashesCache.bin"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "f645372e5d7788f5d53dec4f7594a4efd13e582e45e33860b2eae1b7ed701a71"
+    }
+   ]
+  },
+  {
+   "id": "76d85c3b3d995fec",
+   "location": {
+    "path": ".gradle/7.5.1/gc.properties"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+   ]
+  },
+  {
+   "id": "99c4b027d4416643",
+   "location": {
+    "path": ".gradle/7.5.1/vcsMetadata"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "a930907f7f6cf4ff",
+   "location": {
+    "path": ".gradle/buildOutputCleanup"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "490aeb9ba18ebe91",
+   "location": {
+    "path": ".gradle/buildOutputCleanup/buildOutputCleanup.lock"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "0815ba709bcd8ee05b6643896e9099e8190523a72d05a83965c1733be5734f05"
+    }
+   ]
+  },
+  {
+   "id": "d858d3eecdec876f",
+   "location": {
+    "path": ".gradle/buildOutputCleanup/cache.properties"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "06199af83b7d400aced030e1c86094445a4f2d29a6a64bdde97b53989381d790"
+    }
+   ]
+  },
+  {
+   "id": "8641a65020a4d172",
+   "location": {
+    "path": ".gradle/buildOutputCleanup/outputFiles.bin"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "0a0d3c3e05c1b551542d0f0cd243dfbe54b2dfedf4064b9aaebc53d8688b4879"
+    }
+   ]
+  },
+  {
+   "id": "330e823033abeefc",
+   "location": {
+    "path": ".gradle/file-system.probe"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/octet-stream"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "14fe316350a4f387cd0d8c6c06a38f314f641c43b2e3176b1e4f6f580ea6d1a1"
+    }
+   ]
+  },
+  {
+   "id": "42c1568954761186",
+   "location": {
+    "path": ".gradle/vcs-1"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "199d5963363b36a6",
+   "location": {
+    "path": ".gradle/vcs-1/gc.properties"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+   ]
+  },
+  {
+   "id": "3b74bcc9b44907ff",
+   "location": {
+    "path": ".vscode"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "3ce2a7d05d0b1e32",
+   "location": {
+    "path": ".vscode/settings.json"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/json"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "7e7c16288a4a1f0d33bb4f09ba175f350eb732051551beef81394ac0714cb659"
+    }
+   ]
+  },
+  {
+   "id": "39f01cd34c5d27d9",
+   "location": {
+    "path": "/Users/henrysachs/projects/temp/mycoolproject"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "dace24a835e2933c",
+   "location": {
+    "path": "HELP.md"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "30650276b41a8f8eeaac0021e65063603a7602d069f9e297898e61b70507174d"
+    }
+   ]
+  },
+  {
+   "id": "e3509bb6f2034cb1",
+   "location": {
+    "path": "build.gradle.kts"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "5507aec41e973d9c6375cdc4fffc2a7c7ee51156c63232ac022ac0b0f8047843"
+    }
+   ]
+  },
+  {
+   "id": "a82376d173e5750e",
+   "location": {
+    "path": "gradle"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "cae0210259b8b38a",
+   "location": {
+    "path": "gradle.lockfile"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "48e8297b1b6abc1eb2fd7242f70a1e6d7824f1ee940dc7959aa87947ba83bcc1"
+    }
+   ]
+  },
+  {
+   "id": "3283b51181b10a22",
+   "location": {
+    "path": "gradle/wrapper"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "5548459e4cb5b8de",
+   "location": {
+    "path": "gradle/wrapper/gradle-wrapper.jar"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "application/jar"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "91a239400bb638f36a1795d8fdf7939d532cdc7d794d1119b7261aac158b1e60"
+    }
+   ]
+  },
+  {
+   "id": "3776ed338eabe3b0",
+   "location": {
+    "path": "gradle/wrapper/gradle-wrapper.properties"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "6ae1cac1d336e9df8a9d74dc8a365a09e3de8750e47d884d1d6e6a57e01ad190"
+    }
+   ]
+  },
+  {
+   "id": "ce4507f3fbbfa4f6",
+   "location": {
+    "path": "gradlew"
+   },
+   "metadata": {
+    "mode": 755,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "8deee7d70dd19cf8180712bd9a4fc2f957ad4ce81f64ce825aec066275fdf761"
+    }
+   ]
+  },
+  {
+   "id": "297bcae7139d1af2",
+   "location": {
+    "path": "gradlew.bat"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "fbc50a5a441b0917ea1bfba260c0717a8416fd54505338f074ccd3f03241ec09"
+    }
+   ]
+  },
+  {
+   "id": "c785844500cce2cd",
+   "location": {
+    "path": "parser.go"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "5c5873242da95a537f0d7741a0502377fb1088b2b573d0591b5d3542b1022e04"
+    }
+   ]
+  },
+  {
+   "id": "bc8df5417bb3ac71",
+   "location": {
+    "path": "settings.gradle.kts"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "aef4e06e5862f68777672cd889b60b857a903c1818c3c1f23e2ddfcc6993654f"
+    }
+   ]
+  },
+  {
+   "id": "4c2a00b780802f07",
+   "location": {
+    "path": "src"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "4bbc26e6f2f462d1",
+   "location": {
+    "path": "src/main"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "79ccbc6b4b8f2ca0",
+   "location": {
+    "path": "src/main/java"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "6a1f313f4fc26f15",
+   "location": {
+    "path": "src/main/java/com"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "c8498f1ca6c7c731",
+   "location": {
+    "path": "src/main/java/com/hachs"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "624288fd3d8f13f0",
+   "location": {
+    "path": "src/main/java/com/hachs/mycoolproject"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "65b656c9b2b93e11",
+   "location": {
+    "path": "src/main/java/com/hachs/mycoolproject/MycoolprojectApplication.java"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "716931c89ca77979daa664896b7cb7f71761ac216e3376dfb4ccfb0b13147abf"
+    }
+   ]
+  },
+  {
+   "id": "6f6e909e33c4883e",
+   "location": {
+    "path": "src/main/resources"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "c535c6ab22f090be",
+   "location": {
+    "path": "src/main/resources/application.properties"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    }
+   ]
+  },
+  {
+   "id": "fda885a8813f77d9",
+   "location": {
+    "path": "src/main/resources/db"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "6450875bb1cbeb2f",
+   "location": {
+    "path": "src/main/resources/db/migration"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "c7f25f89facfab2",
+   "location": {
+    "path": "src/main/resources/static"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "63dd0e49f9bb930d",
+   "location": {
+    "path": "src/main/resources/templates"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "9d52b969fc09bf91",
+   "location": {
+    "path": "src/test"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "9108d525cc29f8c3",
+   "location": {
+    "path": "src/test/java"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "9a27e56064e2e3db",
+   "location": {
+    "path": "src/test/java/com"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "a6a3fd20be7cd9af",
+   "location": {
+    "path": "src/test/java/com/hachs"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "1fc512a02f4e1312",
+   "location": {
+    "path": "src/test/java/com/hachs/mycoolproject"
+   },
+   "metadata": {
+    "mode": 20000000755,
+    "type": "Directory",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": ""
+   }
+  },
+  {
+   "id": "9d7e365f737430b3",
+   "location": {
+    "path": "src/test/java/com/hachs/mycoolproject/MycoolprojectApplicationTests.java"
+   },
+   "metadata": {
+    "mode": 644,
+    "type": "RegularFile",
+    "userID": 501,
+    "groupID": 20,
+    "mimeType": "text/plain"
+   },
+   "digests": [
+    {
+     "algorithm": "sha256",
+     "value": "55c77a709f533fa968d8c415acd76258808cbcdf5f9a3ab70d779fe69257372a"
+    }
+   ]
+  }
+ ],
+ "source": {
+  "id": "899d04d674f541789988d836a4e82edbe504550ddb9b85dc1ad9c6e78d2ab9a8",
+  "type": "directory",
+  "target": "/Users/henrysachs/projects/temp/mycoolproject"
+ },
+ "distro": {},
+ "descriptor": {
+  "name": "syft",
+  "version": "0.0.0-SNAPSHOT-da44db92",
+  "configuration": {
+   "configPath": "/Users/henrysachs/.syft.yaml",
+   "verbosity": 2,
+   "quiet": false,
+   "output": [
+    "json=syft.sbom.json"
+   ],
+   "output-template-path": "",
+   "file": "",
+   "check-for-app-update": true,
+   "dev": {
+    "profile-cpu": false,
+    "profile-mem": false
+   },
+   "log": {
+    "structured": false,
+    "level": "debug",
+    "file-location": ""
+   },
+   "catalogers": null,
+   "package": {
+    "cataloger": {
+     "enabled": true,
+     "scope": "squashed"
+    },
+    "search-unindexed-archives": false,
+    "search-indexed-archives": true
+   },
+   "golang": {
+    "search-local-mod-cache-licenses": false,
+    "local-mod-cache-dir": ""
+   },
+   "attest": {},
+   "file-metadata": {
+    "cataloger": {
+     "enabled": true,
+     "scope": "squashed"
+    },
+    "digests": [
+     "sha256"
+    ]
+   },
+   "file-classification": {
+    "cataloger": {
+     "enabled": true,
+     "scope": "squashed"
+    }
+   },
+   "file-contents": {
+    "cataloger": {
+     "enabled": true,
+     "scope": "squashed"
+    },
+    "skip-files-above-size": 1048576,
+    "globs": []
+   },
+   "secrets": {
+    "cataloger": {
+     "enabled": true,
+     "scope": "all-layers"
+    },
+    "additional-patterns": {},
+    "exclude-pattern-names": [],
+    "reveal-values": false,
+    "skip-files-above-size": 1048576
+   },
+   "registry": {
+    "insecure-skip-tls-verify": false,
+    "insecure-use-http": false,
+    "auth": []
+   },
+   "exclude": [],
+   "platform": "",
+   "name": "",
+   "parallelism": 1,
+   "default-image-pull-source": ""
+  }
+ },
+ "schema": {
+  "version": "7.1.1",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-7.1.1.json"
+ }
+}
